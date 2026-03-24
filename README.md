@@ -1,4 +1,4 @@
-# Object_Classification
+# Object Classification
 # Flower Classification via Transfer Learning — TensorFlow & PyTorch
 
 The project fine-tunes a pre-trained **ResNet50** CNN on a 5-class flower image dataset using both TensorFlow/Keras and PyTorch, comparing their results side by side. Implemented and trained on **Google Colab** with GPU acceleration.
@@ -31,7 +31,7 @@ The project fine-tunes a pre-trained **ResNet50** CNN on a 5-class flower image 
 
 ---
 
-## ⚙️ Data Pipeline
+## Data Pipeline
 
 | Step | Description |
 |:-----|:------------|
